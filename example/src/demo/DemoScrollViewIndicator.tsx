@@ -11,7 +11,7 @@
 import * as React from 'react';
 import {Text, View, ViewStyle} from 'react-native';
 // import {ScrollViewIndicator} from '../react-native-scroll-indicator';
-import {ScrollViewIndicator} from '@fanchenbao/react-native-scroll-indicator';
+import {ScrollViewIndicator} from 'react-native-scroll-indicator';
 
 type PropsT = {
   hori: boolean;

@@ -1,5 +1,5 @@
 {
-  "name": "@fanchenbao/react-native-scroll-indicator",
+  "name": "react-native-scroll-indicator",
   "version": "0.2.1",
   "description": "A React Native component that offers a customizable scroll indicator for ScrollView and FlatList",
   "main": "lib/commonjs/index",

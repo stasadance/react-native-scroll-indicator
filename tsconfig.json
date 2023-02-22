@@ -2,7 +2,7 @@
   "compilerOptions": {
     "baseUrl": "./",
     "paths": {
-      "@fanchenbao/react-native-scroll-indicator": ["./src/index"]
+      "react-native-scroll-indicator": ["./src/index"]
     },
     "allowUnreachableCode": false,
     "allowUnusedLabels": false,
